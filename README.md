@@ -97,16 +97,32 @@ My goal is to create impactful software while contributing to the open-source co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-bhupendra&hide_border=true&background=0B0D15&stroke=6C8CFF&ring=9A7DFF&fire=4ECBFF&currStreakLabel=D6E0FF&sideLabels=D6E0FF&sideNums=D6E0FF&currStreakNum=D6E0FF" />
 </p>
 
-<h2 align="center">🐍 Contributions</h2>
+<!-- ============================================================ -->
+<!--  FIXED CONTRIBUTION SNAKE - THIS WILL WORK                  -->
+<!-- ============================================================ -->
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<!-- Option 1: Platane's Snake (Works immediately) -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- Option 2: Your custom snake (requires workflow setup) -->
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake.svg" />
   </picture>
+</p> -->
+
+<!-- Option 3: Alternative animated snake -->
+<p align="center">
+  <img src="https://github.com/tech-bhupendra/tech-bhupendra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<!-- Profile views and followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=9A7DFF&style=flat-square" />
   <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=flat-square&color=6C8CFF" />
