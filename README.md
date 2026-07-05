@@ -81,14 +81,22 @@ My goal is to create impactful software while contributing to the open-source co
 </p>
 
 <!-- ============================================================ -->
-<!--  GITHUB STATS                                               -->
+<!--  AUTO-UPDATING GITHUB STATS                                  -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats (Auto-Updates)</h2>
 
+<!-- These stats update automatically every time you push -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-bhupendra&show_icons=true&count_private=true&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF&ring_color=4ECBFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-bhupendra&show_icons=true&count_private=true&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF&ring_color=4ECBFF&include_all_commits=true&custom_title=Total%20Contributions" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&langs_count=8&include_all_commits=true" height="170" />
+</p>
+
+<!-- AUTO-UPDATING REPO COUNT -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=6C8CFF" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=9A7DFF" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=4ECBFF" />
 </p>
 
 <h2 align="center">🔥 GitHub Streak</h2>
@@ -98,34 +106,46 @@ My goal is to create impactful software while contributing to the open-source co
 </p>
 
 <!-- ============================================================ -->
-<!--  FIXED CONTRIBUTION SNAKE - THIS WILL WORK                  -->
+<!--  LATEST REPOSITORIES (AUTO-UPDATES)                         -->
+<!-- ============================================================ -->
+
+<h2 align="center">📁 Latest Repositories</h2>
+
+<!-- These show your most recently updated repos -->
+<p align="center">
+  <a href="https://github.com/tech-bhupendra?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=tech-bhupendra&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
+  </a>
+  <a href="https://github.com/tech-bhupendra?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-name&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
+  </a>
+</p>
+
+<!-- DYNAMIC REPO LIST - Replace "your-repo-name" with actual repo names -->
+<p align="center">
+  <a href="https://github.com/tech-bhupendra?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-2&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
+  </a>
+  <a href="https://github.com/tech-bhupendra?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-3&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
+  </a>
+</p>
+
+<!-- ============================================================ -->
+<!--  CONTRIBUTION SNAKE                                          -->
 <!-- ============================================================ -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<!-- Option 1: Platane's Snake (Works immediately) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- Option 2: Your custom snake (requires workflow setup) -->
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/tech-bhupendra/tech-bhupendra/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p> -->
-
-<!-- Option 3: Alternative animated snake -->
-<p align="center">
-  <img src="https://github.com/tech-bhupendra/tech-bhupendra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Profile views and followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=9A7DFF&style=flat-square" />
   <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=flat-square&color=6C8CFF" />
+  <img src="https://img.shields.io/github/stars/tech-bhupendra?label=Total%20Stars&style=flat-square&color=4ECBFF" />
 </p>
 
 <!-- ============================================================ -->
@@ -151,15 +171,32 @@ My goal is to create impactful software while contributing to the open-source co
 <p align="center">
 <b>🎯 2026 Goals</b>
 <br><br>
-✅ Build 10+ Real-World Projects
+Build 5+ Real-World Projects
 <br>
-✅ Master React & Node.js
+Master React & Node.js
 <br>
-✅ Improve DSA & Problem Solving
+Improve DSA & Problem Solving
 <br>
-✅ Make My First Open Source Contribution
+Make My First Open Source Contribution
 <br>
-✅ Create an Outstanding Developer Portfolio
+Create an Outstanding Developer Portfolio
+</p>
+
+<!-- ============================================================ -->
+<!--  DAILY PROGRESS TRACKER                                      -->
+<!-- ============================================================ -->
+
+<h2 align="center">📊 Daily Progress</h2>
+
+<p align="center">
+  <!-- Shows today's commits -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Today's%20Commits&query=%24%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=6C8CFF" />
+  
+  <!-- Shows weekly commits -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=This%20Week&query=%24%5B0%5D.weeks%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=9A7DFF" />
+  
+  <!-- Shows total commits -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=%24%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=4ECBFF" />
 </p>
 
 <!-- ============================================================ -->
