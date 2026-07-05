@@ -81,54 +81,48 @@ My goal is to create impactful software while contributing to the open-source co
 </p>
 
 <!-- ============================================================ -->
-<!--  AUTO-UPDATING GITHUB STATS                                  -->
+<!--  AUTO-UPDATING GITHUB STATS                                 -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Stats (Auto-Updates)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<!-- These stats update automatically every time you push -->
+<!-- PROFILE SUMMARY CARDS - Most Reliable -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-bhupendra&show_icons=true&count_private=true&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF&ring_color=4ECBFF&include_all_commits=true&custom_title=Total%20Contributions" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&hide_border=true&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&langs_count=8&include_all_commits=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tech-bhupendra&theme=github_dark" width="800" />
 </p>
 
-<!-- AUTO-UPDATING REPO COUNT -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=6C8CFF" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=9A7DFF" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=4ECBFF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tech-bhupendra&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tech-bhupendra&theme=github_dark" height="170" />
 </p>
+
+<!-- Traditional Stats (Backup) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-bhupendra&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
+</p>
+
+<!-- ============================================================ -->
+<!--  SINGLE GITHUB STREAK - REMOVED DUPLICATE                   -->
+<!-- ============================================================ -->
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-bhupendra&hide_border=true&background=0B0D15&stroke=6C8CFF&ring=9A7DFF&fire=4ECBFF&currStreakLabel=D6E0FF&sideLabels=D6E0FF&sideNums=D6E0FF&currStreakNum=D6E0FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-bhupendra&theme=github-dark&hide_border=true" />
 </p>
 
 <!-- ============================================================ -->
-<!--  LATEST REPOSITORIES (AUTO-UPDATES)                         -->
+<!--  AUTO-UPDATING REPO COUNTERS                                -->
 <!-- ============================================================ -->
 
-<h2 align="center">📁 Latest Repositories</h2>
+<h2 align="center">📈 Live Repository Stats</h2>
 
-<!-- These show your most recently updated repos -->
 <p align="center">
-  <a href="https://github.com/tech-bhupendra?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=tech-bhupendra&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
-  </a>
-  <a href="https://github.com/tech-bhupendra?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-name&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
-  </a>
-</p>
-
-<!-- DYNAMIC REPO LIST - Replace "your-repo-name" with actual repo names -->
-<p align="center">
-  <a href="https://github.com/tech-bhupendra?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-2&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
-  </a>
-  <a href="https://github.com/tech-bhupendra?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=your-repo-3&bg_color=0B0D15&title_color=9A7DFF&text_color=D6E0FF&icon_color=6C8CFF" />
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=6C8CFF&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=9A7DFF&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=4ECBFF&logo=github" />
+  <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" />
 </p>
 
 <!-- ============================================================ -->
@@ -141,11 +135,12 @@ My goal is to create impactful software while contributing to the open-source co
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- Profile views and followers -->
+<!-- ============================================================ -->
+<!--  PROFILE VIEWS                                               -->
+<!-- ============================================================ -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=9A7DFF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=flat-square&color=6C8CFF" />
-  <img src="https://img.shields.io/github/stars/tech-bhupendra?label=Total%20Stars&style=flat-square&color=4ECBFF" />
+  <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=9A7DFF&style=for-the-badge" />
 </p>
 
 <!-- ============================================================ -->
@@ -171,7 +166,7 @@ My goal is to create impactful software while contributing to the open-source co
 <p align="center">
 <b>🎯 2026 Goals</b>
 <br><br>
-Build 5+ Real-World Projects
+Build 10+ Real-World Projects
 <br>
 Master React & Node.js
 <br>
@@ -183,23 +178,6 @@ Create an Outstanding Developer Portfolio
 </p>
 
 <!-- ============================================================ -->
-<!--  DAILY PROGRESS TRACKER                                      -->
-<!-- ============================================================ -->
-
-<h2 align="center">📊 Daily Progress</h2>
-
-<p align="center">
-  <!-- Shows today's commits -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Today's%20Commits&query=%24%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=6C8CFF" />
-  
-  <!-- Shows weekly commits -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=This%20Week&query=%24%5B0%5D.weeks%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=9A7DFF" />
-  
-  <!-- Shows total commits -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=%24%5B0%5D.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftech-bhupendra.json&style=for-the-badge&color=4ECBFF" />
-</p>
-
-<!-- ============================================================ -->
 <!--  FUN FACTS                                                   -->
 <!-- ============================================================ -->
 
@@ -208,7 +186,7 @@ Create an Outstanding Developer Portfolio
 <p align="center">
   🎓 CS student at <strong>Chitkara University</strong><br />
   💻 Coding since <strong>2024</strong><br />
-  🌙 Most productive at <strong>3 AM</strong><br />
+  🌙 Most productive at <strong>4 AM</strong><br />
   ☕ Powered by <strong>coffee</strong> and <strong>determination</strong><br />
   🎮 Gamer · Anime enthusiast · Book lover
 </p>
