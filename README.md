@@ -3,21 +3,17 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C8CFF,50:9A7DFF,100:4ECBFF&height=250&section=header&text=Bhupendra%20Saud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:4A1A6B,100:7B2FBE&height=250&section=header&text=Bhupendra%20Saud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student" />
 </p>
 
+<!-- MAIN TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=9A7DFF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Bhupendra+Saud+👋;Computer+Science+Student;Full+Stack+Developer;Passionate+About+Coding+💻;Building+Modern+Web+Applications;Open+Source+Learner+🌱;AI+Enthusiast+🤖;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=C084FC&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Hey%2C+I'm+Bhupendra+Saud;Aspiring+Full+Stack+Developer;Computer+Science+Student;Open+Source+Learner;Building+Modern+Web+Apps;AI+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing Animation" />
 </h1>
-
-<p align="center">
-  <samp>
-    💻 <b>Aspiring Full Stack Developer</b> • 🎓 <b>Computer Science Student</b> • 🌱 <b>Open Source Learner</b> • 🚀 <b>Building Modern Web Applications</b>
-  </samp>
-</p>
 
 <br>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://github.com/tech-bhupendra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -36,57 +32,150 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <!-- ============================================================ -->
-<!--  ABOUT ME                                                    -->
+<!--  AESTHETIC ABOUT ME SECTION - DARK THEME                     -->
 <!-- ============================================================ -->
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b style="color: #C084FC;">About Me</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
 
-<blockquote align="center">
-"I'm Bhupendra, a passionate Computer Science student and aspiring Full Stack Developer from Nepal 🇳🇵.
-I enjoy building modern web applications, exploring AI, solving coding challenges, and continuously learning new technologies.
-My goal is to create impactful software while contributing to the open-source community."
-</blockquote>
+<!-- GLASSMORPHISM CARD - DARK THEME -->
+<table align="center" width="100%" style="background: linear-gradient(135deg, rgba(15, 10, 25, 0.95), rgba(30, 20, 45, 0.9)); border-radius: 20px; padding: 20px; border: 1px solid rgba(192, 132, 252, 0.25); backdrop-filter: blur(10px);">
+<tr>
+<td width="60%" style="padding: 20px;">
+
+<!-- ANIMATED GREETING -->
+<h3 align="left" style="font-size: 28px; color: #C084FC; margin-bottom: 10px;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Namaste! 🙏
+</h3>
+
+<!-- GLOWING TEXT - DARK THEME -->
+<p align="left" style="font-size: 18px; color: #E5D9F2; line-height: 1.8;">
+  I'm <b style="color: #C084FC; font-size: 20px;">Bhupendra Saud</b>, a passionate 
+  <b style="color: #A78BFA;">Computer Science student</b> and aspiring 
+  <b style="color: #34D399;">Full Stack Developer</b> from the beautiful country of 
+  <b style="color: #FB7185;">Nepal 🇳🇵</b>
+</p>
+
+<!-- DECORATIVE DIVIDER -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
+</p>
+
+<!-- UNIQUE FEATURES WITH ICONS - DARK THEME -->
+<p align="left" style="font-size: 16px; color: #E5D9F2; line-height: 2.2;">
+  <span style="background: rgba(192, 132, 252, 0.15); padding: 5px 12px; border-radius: 20px; margin: 5px;">
+    🚀 <b style="color: #C084FC;">Building</b> Modern Web Applications
+  </span>
+  <br>
+  <span style="background: rgba(167, 139, 250, 0.15); padding: 5px 12px; border-radius: 20px; margin: 5px;">
+    🤖 <b style="color: #A78BFA;">Exploring</b> Artificial Intelligence
+  </span>
+  <br>
+  <span style="background: rgba(52, 211, 153, 0.15); padding: 5px 12px; border-radius: 20px; margin: 5px;">
+    📚 <b style="color: #34D399;">Learning</b> Data Structures & Algorithms
+  </span>
+  <br>
+  <span style="background: rgba(251, 113, 133, 0.15); padding: 5px 12px; border-radius: 20px; margin: 5px;">
+    🌟 <b style="color: #FB7185;">Contributing</b> to Open Source
+  </span>
+</p>
+
+</td>
+<td width="40%" align="center" style="padding: 20px;">
+
+<!-- ANIMATED CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 15px; border: 2px solid rgba(192, 132, 252, 0.3);">
+
+<br><br>
+
+<!-- ANIMATED STATS BADGES - DARK THEME -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-🎓-C084FC?style=for-the-badge&logoColor=white&labelColor=1A0B2E">
+  <br>
+  <img src="https://img.shields.io/badge/Developer-💻-A78BFA?style=for-the-badge&logoColor=white&labelColor=1A0B2E">
+  <br>
+  <img src="https://img.shields.io/badge/Learner-📖-34D399?style=for-the-badge&logoColor=white&labelColor=1A0B2E">
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- QUOTE CARD - DARK THEME -->
+<br>
+
+<table align="center" width="80%" style="background: linear-gradient(135deg, rgba(15, 10, 25, 0.9), rgba(30, 20, 45, 0.85)); border-radius: 15px; padding: 15px; border-left: 4px solid #C084FC;">
+<tr>
+<td align="center">
+
+<p style="font-size: 18px; color: #E5D9F2; font-style: italic;">
+  <b style="color: #C084FC; font-size: 24px;">"</b>
+  Code is like poetry, it should be clean, elegant, and tell a beautiful story.
+  <b style="color: #C084FC; font-size: 24px;">"</b>
+</p>
+
+<p style="color: #A78BFA; font-size: 14px;">
+  — <b>Bhupendra Saud</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- SKILL BADGES WITH GLOW - DARK THEME -->
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science_Student-6C8CFF?style=flat-square&logo=googleclassroom&logoColor=white&labelColor=0B0D15" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-9A7DFF?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0B0D15" />
-  <img src="https://img.shields.io/badge/Open_Source_Learner-4ECBFF?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0B0D15" />
-  <img src="https://img.shields.io/badge/Always_Learning-FF8C9A?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0B0D15" />
+  <img src="https://img.shields.io/badge/Computer_Science_Student-C084FC?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-A78BFA?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/badge/Open_Source_Contributor-34D399?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/badge/AI_Enthusiast-FB7185?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A0B2E" />
 </p>
 
 <!-- ============================================================ -->
-<!--  TECH STACK                                                  -->
+<!--  TECH STACK - DARK THEME                                    -->
 <!-- ============================================================ -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  <b style="color: #C084FC;">Tech Stack</b>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+</h2>
 
-<h4 align="center">Languages</h4>
+<h4 align="center" style="color: #A78BFA;">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=dark&perline=6" />
 </p>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center" style="color: #A78BFA;">Frontend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=4" />
 </p>
 
-<h4 align="center">Backend & Database</h4>
+<h4 align="center" style="color: #A78BFA;">Backend & Database</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" />
 </p>
 
-<h4 align="center">Tools</h4>
+<h4 align="center" style="color: #A78BFA;">Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,vercel&theme=dark&perline=6" />
 </p>
 
 <!-- ============================================================ -->
-<!--  AUTO-UPDATING GITHUB STATS                                 -->
+<!--  GITHUB STATS - DARK THEME                                  -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <b style="color: #C084FC;">GitHub Analytics</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
 
-<!-- PROFILE SUMMARY CARDS - Most Reliable -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tech-bhupendra&theme=github_dark" width="800" />
 </p>
@@ -96,100 +185,133 @@ My goal is to create impactful software while contributing to the open-source co
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tech-bhupendra&theme=github_dark" height="170" />
 </p>
 
-<!-- Traditional Stats (Backup) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tech-bhupendra&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
 </p>
 
 <!-- ============================================================ -->
-<!--  SINGLE GITHUB STREAK - REMOVED DUPLICATE                   -->
+<!--  GITHUB STREAK - DARK THEME                                 -->
 <!-- ============================================================ -->
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  <b style="color: #C084FC;">GitHub Streak</b>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-bhupendra&theme=github-dark&hide_border=true" />
 </p>
 
 <!-- ============================================================ -->
-<!--  AUTO-UPDATING REPO COUNTERS                                -->
+<!--  REPO STATS - DARK THEME                                   -->
 <!-- ============================================================ -->
 
-<h2 align="center">📈 Live Repository Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nw21sjNW/giphy.gif" width="30">
+  <b style="color: #C084FC;">Repository Stats</b>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nw21sjNW/giphy.gif" width="30">
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=6C8CFF&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=9A7DFF&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=4ECBFF&logo=github" />
-  <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=C084FC&logo=github&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=A78BFA&logo=github&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=34D399&logo=github&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=for-the-badge&color=FB7185&logo=github&labelColor=1A0B2E" />
 </p>
 
 <!-- ============================================================ -->
-<!--  CONTRIBUTION SNAKE                                          -->
+<!--  CONTRIBUTION SNAKE                                         -->
 <!-- ============================================================ -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  <b style="color: #C084FC;">Contribution Snake</b>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- ============================================================ -->
-<!--  PROFILE VIEWS                                               -->
-<!-- ============================================================ -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=9A7DFF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=tech-bhupendra&label=Profile%20Views&color=C084FC&style=for-the-badge" />
 </p>
 
 <!-- ============================================================ -->
-<!--  CURRENTLY                                                   -->
+<!--  CURRENTLY WORKING ON - DARK THEME                          -->
 <!-- ============================================================ -->
 
-<h2 align="center">🌱 Currently</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  <b style="color: #C084FC;">What I'm Up To</b>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+</h2>
 
-<p align="center">
-📚 <b>Learning:</b> React • Node.js • Express.js • MongoDB • Data Structures & Algorithms
-<br><br>
-🏗️ <b>Building:</b> Full Stack Web Applications & Personal Projects
-<br><br>
-🚀 <b>Exploring:</b> Artificial Intelligence, Open Source & Modern Web Technologies
-<br><br>
-🎯 <b>Goal:</b> Become a Skilled Full Stack Developer & Software Engineer
-<br><br>
-💡 <b>Current Focus:</b> Writing Clean Code, Solving Problems & Learning Every Day
+<table align="center" width="70%" style="background: linear-gradient(135deg, rgba(15, 10, 25, 0.95), rgba(30, 20, 45, 0.9)); border-radius: 15px; padding: 20px; border: 1px solid rgba(192, 132, 252, 0.2);">
+<tr>
+<td align="center">
+
+<p style="font-size: 18px; color: #E5D9F2; line-height: 2.2;">
+  📚 <b style="color: #C084FC;">Learning:</b> React • Node.js • Express.js • MongoDB • DSA
+  <br>
+  🏗️ <b style="color: #A78BFA;">Building:</b> Full Stack Web Applications
+  <br>
+  🚀 <b style="color: #34D399;">Exploring:</b> AI, Open Source & Modern Web Tech
+  <br>
+  🎯 <b style="color: #FB7185;">Goal:</b> Become a Skilled Full Stack Developer
 </p>
 
+</td>
+</tr>
+</table>
+
 <br>
 
 <p align="center">
-<b>🎯 2026 Goals</b>
+<b style="color: #C084FC; font-size: 20px;">🎯 2026 Goals</b>
 <br><br>
-Build 10+ Real-World Projects
+<span style="background: rgba(192, 132, 252, 0.15); padding: 8px 15px; border-radius: 20px; margin: 5px; color: #E5D9F2;"> Build 10+ Real-World Projects</span>
 <br>
-Master React & Node.js
+<span style="background: rgba(167, 139, 250, 0.15); padding: 8px 15px; border-radius: 20px; margin: 5px; color: #E5D9F2;"> Master React & Node.js</span>
 <br>
-Improve DSA & Problem Solving
+<span style="background: rgba(52, 211, 153, 0.15); padding: 8px 15px; border-radius: 20px; margin: 5px; color: #E5D9F2;"> Improve DSA & Problem Solving</span>
 <br>
-Make My First Open Source Contribution
+<span style="background: rgba(251, 113, 133, 0.15); padding: 8px 15px; border-radius: 20px; margin: 5px; color: #E5D9F2;"> Make First Open Source Contribution</span>
 <br>
-Create an Outstanding Developer Portfolio
+<span style="background: rgba(244, 63, 94, 0.15); padding: 8px 15px; border-radius: 20px; margin: 5px; color: #E5D9F2;"> Create an Outstanding Developer Portfolio</span>
 </p>
 
 <!-- ============================================================ -->
-<!--  FUN FACTS                                                   -->
+<!--  FUN FACTS - DARK THEME                                     -->
 <!-- ============================================================ -->
 
-<h2 align="center">⚡ Student Life</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  <b style="color: #C084FC;">Student Life</b>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+</h2>
 
-<p align="center">
-  🎓 CS student at <strong>Chitkara University</strong><br />
-  💻 Coding since <strong>2024</strong><br />
-  🌙 Most productive at <strong>4 AM</strong><br />
-  ☕ Powered by <strong>coffee</strong> and <strong>determination</strong><br />
-  🎮 Gamer · Anime enthusiast · Book lover
+<table align="center" width="60%" style="background: linear-gradient(135deg, rgba(15, 10, 25, 0.95), rgba(30, 20, 45, 0.9)); border-radius: 15px; padding: 20px; border: 1px solid rgba(192, 132, 252, 0.2);">
+<tr>
+<td align="center">
+
+<p style="font-size: 18px; color: #E5D9F2; line-height: 2.5;">
+  🎓 <b style="color: #C084FC;">Student at</b> Chitkara University
+  <br>
+  💻 <b style="color: #A78BFA;">Coding since</b> 2024
+  <br>
+  🌙 <b style="color: #34D399;">Most productive at</b> 5 AM
+  <br>
+  ☕ <b style="color: #FB7185;">Powered by</b> Coffee & Determination
+  <br>
+  🎮 <b style="color: #F472B6;">Gamer</b> · <b style="color: #F472B6;">Anime Lover</b> · <b style="color: #F472B6;">Bookworm</b>
 </p>
+
+</td>
+</tr>
+</table>
 
 <!-- ============================================================ -->
 <!--  FOOTER                                                      -->
@@ -200,10 +322,10 @@ Create an Outstanding Developer Portfolio
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=9A7DFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!+💜;Happy+Coding!+🚀;Let's+build+something+awesome+together!+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!+💜;Happy+Coding!+🚀;Let's+build+something+awesome+together!+✨" />
 </p>
 
-<p align="center">
+<p align="center" style="color: #A78BFA;">
 💜 Crafted with passion, ☕ coffee, and countless lines of code.
 </p>
 
@@ -221,14 +343,14 @@ Create an Outstanding Developer Portfolio
 
 <br>
 
-<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
+<h3 align="center" style="color: #C084FC;">⭐ If you like my work, consider giving my repositories a star!</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECBFF,50:9A7DFF,100:6C8CFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:4A1A6B,100:7B2FBE&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <b>Designed & Developed by Bhupendra Saud</b>
+  <b style="color: #C084FC;">Designed & Developed by Bhupendra Saud</b>
   <br>
-  <sub>© 2024-2026 • All Rights Reserved</sub>
+  <sub style="color: #A78BFA;">© 2024-2026 • All Rights Reserved</sub>
 </p>
